@@ -1,0 +1,4 @@
+swing
+gymnasium[all]
+
+stable_baselines3
